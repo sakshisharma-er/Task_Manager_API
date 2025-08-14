@@ -1,0 +1,20 @@
+# Django>=4.2
+# djangorestframework>=3.14
+# djangorestframework-simplejwt>=5.2
+Django==5.0.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+drf-yasg==1.21.10
+drf-spectacular==0.26.5
+django-cors-headers==4.3.1
+django-filter==23.4
+django-crontab==0.7.1
+django-storages==1.14.2
+django-ses==4.4.0
+psycopg2-binary==2.9.10
+python-decouple==3.8
+requests==2.31.0
+Pillow==10.2.0
+numpy==2.2.3
+opencv-python==4.11.0.86
+redis==5.0.1
