@@ -6,9 +6,14 @@ A Django REST Framework project for managing tasks with role-based permissions.
 1. Clone repo and create virtual environment.
     python -m venv venv
     venv\Scripts\activate
+
 2. Install dependencies:
 bash
 pip install -r requirements.txt
+
+3. for migrations use
+    py manage.py makemigrations
+    py manage.py migrate
 <!-- ******************User Role******************** -->
 User Roles
 
